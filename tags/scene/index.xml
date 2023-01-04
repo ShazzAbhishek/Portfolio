@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on Abhishek Shastry</title>
+    <link>https://shazzabhishek.github.io/Portfolio/tags/scene/</link>
+    <description>Recent content in scene on Abhishek Shastry</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://shazzabhishek.github.io/Portfolio/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PROJECT I: TENSORFLOW OBJECT DETECTION</title>
+      <link>https://shazzabhishek.github.io/Portfolio/post/chapter-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://shazzabhishek.github.io/Portfolio/post/chapter-1/</guid>
+      <description>TECH STACK: Python, tensflow model zoo, open cv2, Object-Detection api, Linux
+ This model detects human hand symbol in real time The hand guesture images are collected through open cv2 and are labelled in a dictionary of items. The TR records are generated for individual task. TF records are a binary file format for storing data. Using a TF Records helps speed up training the object detection model.(annotations and images into a file format) TensorFlow 2 Detection Model Zoo lib is used as a pretrained model SSD Mobile v2 FPNLite 320*320 model is selected with speed and mean average precision of 22 and 22.</description>
+    </item>
+    
+    <item>
+      <title>PROJECT IV: DATABASE DESIGN</title>
+      <link>https://shazzabhishek.github.io/Portfolio/post/chapter-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://shazzabhishek.github.io/Portfolio/post/chapter-4/</guid>
+      <description>TECH STACK: Java, JDBC, postgreSQL, java swing, Advance DB techniques
+ This is a Design of DataBase PostgreSQL. First the requiremnts are given in words. The words are translated into the ER(Entity Relationship Diagram). Optimization are done: Based on weak entity, strong entity, normalization, lossless decomposition, Extraneous Attributes, schema combination and reduction. Keys: Foreign keys, composite keys, multivalued keys. Java Code is developed with front end containing Java Swing, backend: Java DataBase Connectivity.</description>
+    </item>
+    
+  </channel>
+</rss>
